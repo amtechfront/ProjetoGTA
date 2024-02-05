@@ -1,5 +1,7 @@
 # Landing Page GTA - Semana do Zero ao Programador Contratado
 
+https://amtechfront.github.io/ProjetoGTA/
+
 Este projeto consiste em uma Landing Page criada como parte da "Semana do Zero ao Programador Contratado". A página destaca o jogo Grand Theft Auto V (GTA V) e foi desenvolvida usando HTML, CSS e JavaScript.
 
 ## Principais Características
